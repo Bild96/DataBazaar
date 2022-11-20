@@ -1,4 +1,6 @@
 # 💾 DataBazaar
+DATA BAZAAR IS A WEB3 COMMUNITY FORUM
+
 ![Screenshot from 2022-11-20 12-46-48](https://user-images.githubusercontent.com/52472445/202898557-80ac4770-aa77-4041-9cd3-00c6a671a05a.png)
 
 Quick Start
@@ -89,6 +91,9 @@ Then follow the instructions given by the netlify cli and specify `./dist` as th
 
 App Link (NEAR Testnet)
 =======================
+- IPFS:
+https://bafkreic5ztyzdmt4ivcbiw47scvepot4fq5g42526ga2ucv5qfatgl2gzy.ipfs.nftstorage.link/
+- Netlify:
 https://DataBazaar.netlify.app/
 
 
